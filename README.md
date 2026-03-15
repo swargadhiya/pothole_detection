@@ -167,9 +167,3 @@ python predict.py path/to/road_image.jpg mobilenetv2
 3. Selvaraju, R. R. et al. (2017). Grad-CAM. *ICCV*.
 4. He, K. et al. (2016). Deep Residual Learning. *CVPR*.
 5. Kaggle Pothole Detection Dataset.
-
----
-
-## ⚖️ Academic Integrity
-
-AI tools were used for coding assistance (Claude, Sonnet 4.6). All code has been verified and tested. Report written independently.
