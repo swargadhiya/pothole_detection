@@ -1,0 +1,23 @@
+{
+    "custom_cnn": {
+        "accuracy": 0.9074,
+        "precision": 0.9132,
+        "recall": 0.9074,
+        "f1": 0.9075,
+        "f1_macro": 0.9074
+    },
+    "vgg16": {
+        "accuracy": 0.963,
+        "precision": 0.9637,
+        "recall": 0.963,
+        "f1": 0.963,
+        "f1_macro": 0.9628
+    },
+    "mobilenetv2": {
+        "accuracy": 0.9722,
+        "precision": 0.9724,
+        "recall": 0.9722,
+        "f1": 0.9722,
+        "f1_macro": 0.9721
+    }
+}
